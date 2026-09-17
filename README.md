@@ -41,7 +41,7 @@ Snell v1 ~ v6 一键安装脚本，**自动适配主流 Linux 发行版**（syst
 ### 交互式安装（推荐）
 
 ```sh
-wget -O install.sh https://raw.githubusercontent.com/<USER>/<REPO>/main/install.sh
+wget -O install.sh https://github.com/sepbigo/snell-installer/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
